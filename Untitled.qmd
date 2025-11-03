@@ -1,0 +1,346 @@
+---
+format:
+  html:
+    theme: [flatly]
+    toc: true
+    toc-title: "Tabla de contenidos"
+    toc-depth: 2
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    page-layout: full
+    mainfont: "Public Sans"
+    css: cv.css
+    margin:
+      left: 0     # 👈 margen izquierdo más chico
+      right: 0    # 👈 margen derecho más chico
+css: cv.css
+format-links: [pdf]
+lang: es
+---
+::: {.no-print}
+```{=html}
+<header class="cv-header">
+  <div class="cv-header-left">
+    <!-- Puedes dejar esto vacío o agregar tu nombre -->
+  </div>
+  <div class="cv-header-right">
+    <a href="https://github.com/" target="_blank" aria-label="GitHub">
+      <i class="bi bi-github"></i>
+    </a>
+    <a href="https://linkedin.com/" target="_blank" aria-label="LinkedIn">
+      <i class="bi bi-linkedin"></i>
+    </a>
+    <a href="https://pinterest.com/" target="_blank" aria-label="Pinterest">
+      <i class="bi bi-pinterest"></i>
+    </a>
+    <a href="mailto:d10s@gmail.com" aria-label="Email">
+      <i class="bi bi-envelope-fill"></i>
+    </a>
+  </div>
+</header>
+```
+:::
+
+![](assets/maradona.jpg){style="width:170px; border-radius:12px; float:left; margin-right:1rem; box-shadow:0 6px 12px rgba(0,0,0,0.15);"}
+
+```{=html}
+<div style="margin-top:0.5rem;margin-bottom:1rem;">
+  <h1 style="
+      margin:0;
+      font-size:2.2rem;
+      font-weight:700;
+      font-family:'Montserrat',sans-serif;
+      color:#0b4749;
+    ">
+    Diego Armando Maradona
+  </h1>
+  <p style="
+      margin:0.25rem 0 0;
+      font-size:1.05rem;
+      font-weight:600;
+      color:#147c7f;
+      font-family:'Inter',sans-serif;
+    ">
+    Futbolista profesional · Director técnico · Conductor
+  </p>
+</div>
+```
+
+Campeón del Mundo 1986 con la Selección Argentina de fútbol. Trayectoria destacada en *Napoli*, *Barcelona*, *Boca Juniors* y *Argentinos Juniors*. Experiencia como DT de la Selección Argentina y conductor televisivo. Liderazgo, comunicación y alto rendimiento.
+<br clear="all">
+
+## Contacto
++54 9 11 1234567  
+d10s@gmail.com  
+[www.D10S.com](https://es.wikipedia.org/wiki/La_mano_de_Dios){target="_blank" rel="noopener"}
+
+## Experiencia personal
+
+**Director técnico — Selección Argentina de Fútbol**
+*Asociación del Fútbol Argentino (AFA)* [2008 — 2010]{.cvdate}
+
+- Conducción del equipo nacional en Eliminatorias y Mundial FIFA 2010.  
+- Gestión de plantel, estrategia de partidos y comunicación pública.
+
+**Conductor — “La Noche del 10”**
+*Canal 13, Argentina* [2005]{.cvdate}
+
+- Programa de entrevistas y entretenimiento con invitados internacionales.  
+- Conducción en vivo, guionado y diseño de secciones.
+
+**Futbolista profesional — SSC Napoli (Italia)**
+*Serie A* [1984 — 1991]{.cvdate}
+
+- Capitán y figura histórica del club.  
+- **Títulos:** Serie A 1986/87, 1989/90; Copa Italia 1986/87; **Copa UEFA 1988/89**.  
+- Récords de goles y asistencias; liderazgo de equipo y representación institucional.
+
+**Futbolista profesional — FC Barcelona (España)**
+*La Liga* [1982 — 1984]{.cvdate}
+
+- **Títulos:** Copa del Rey 1982/83, Copa de la Liga 1983, Supercopa de España 1983.
+
+**Futbolista profesional — Selección Argentina**
+*AFA* [1977 — 1994]{.cvdate}
+
+- **Campeón del Mundo 1986** (Balón de Oro del Mundial).  
+- Subcampeón del Mundo 1990.  
+- Más de 90 partidos internacionales oficiales.
+
+**Futbolista profesional — Boca Juniors (Argentina)**
+*Primera División* [1981 — 1982]{.cvdate}
+
+- **Campeón Metropolitano 1981**. Referente del plantel.
+
+**Futbolista profesional — Argentinos Juniors (Argentina)**
+*Primera División* [1976 — 1981]{.cvdate}
+
+- Debut profesional y máximo goleador de torneos locales (menciones 1978–1980).
+
+## Educación
+
+**Curso de Dirección Técnica** <br>
+*AFA — Asociación del Fútbol Argentino* [1998 — 1999]{.cvdate}
+
+**Formación juvenil de fútbol** <br>
+*Escuela de Fútbol de Argentinos Juniors* [1969 — 1976]{.cvdate}
+
+## Logros seleccionados
+
+- **Copa Mundial FIFA 1986** — Campeón (Argentina).  
+- **Copa Mundial Sub-20 1979** — Campeón (Argentina Sub-20).  
+- **Copa UEFA 1988/89** — Campeón (SSC Napoli).  
+- **Serie A 1986/87 y 1989/90** — Campeón (SSC Napoli).  
+- **Metropolitano 1981** — Campeón (Boca Juniors).
+
+## Distinciones individuales
+
+- **Balón de Oro del Mundial 1986**; Equipo de las Estrellas (1986 y 1990).  
+- **Máximo goleador**: varios torneos locales (1978, 1979, 1980) y Copas nacionales/Serie A (1988).  
+- **Guerin d’Oro (1985)**; **Premio World Soccer** al mejor jugador del mundo (1986–1987).  
+- **Jugador del Siglo (FIFA, 2000)** — distinción compartida.  
+- **Once histórico del Balón de Oro (2020)**.
+
+## Idiomas
+
+- **Español:** lengua madre  
+- **Italiano:** C1
+
+## Competencias
+
+- **Liderazgo y capitanía:** conducción de equipos de alto rendimiento.  
+- **Estrategia y táctica:** planificación de juego y análisis situacional.  
+- **Comunicación pública:** medios, eventos y vocería institucional.  
+- **Mentoría:** detección y desarrollo de talento joven.
+
+::: {.no-print}
+## Enlaces / Portfolio
+
+```{=html}
+<section class="gallery-strip" aria-label="Trayectoria en imágenes">
+  <p class="gallery-intro">Una selección visual que resume mi trayectoria profesional y logros.</p>
+
+  <div class="strip-wrap">
+    <button class="strip-nav prev" aria-label="Anterior" disabled>
+      &#x276E;
+    </button>
+
+    <div class="strip" id="galleryStrip">
+      <figure class="card">
+        <img src="assets/maradona_argentinos.jpg" alt="México 1986">
+        <figcaption>Los comienzos — Argentinos Juniors (1976 – 1981)</figcaption>
+      </figure>
+      <figure class="card">
+        <img src="assets/maradona_boca1981.jpg" alt="México 1986">
+        <figcaption>Consagración — Boca Juniors (1981)</figcaption>
+      </figure>
+        <figure class="card">
+        <img src="assets/maradona_barcelona.jpg" alt="Barcelona">
+        <figcaption>Europa — FC Barcelona (1982–84)</figcaption>
+      </figure>
+      <figure class="card">
+        <img src="assets/maradona_napoli.jpg" alt="Napoli">
+        <figcaption>Época dorada — SSC Napoli (1984–91)</figcaption>
+      </figure>
+       <figure class="card">
+        <img src="assets/maradona_mexico86.jpg" alt="Boca Juniors">
+        <figcaption>Gloria mundial — México 1986</figcaption>
+      </figure>
+      <figure class="card">
+        <img src="assets/maradona_dt.jpg" alt="Director Técnico">
+        <figcaption>El legado — Director técnico</figcaption>
+      </figure>
+      <figure class="card">
+        <img src="assets/maradona_tribuna.jpg" alt="Tribuna">
+        <figcaption>El legado — Símbolo eterno</figcaption>
+      </figure>
+    </div>
+
+    <button class="strip-nav next" aria-label="Siguiente">
+      &#x276F;
+    </button>
+  </div>
+</section>
+
+<script>
+(function() {
+  const scroller = document.getElementById('galleryStrip');
+  if (!scroller) return;
+
+  const prevBtn = scroller.parentElement.querySelector('.strip-nav.prev');
+  const nextBtn = scroller.parentElement.querySelector('.strip-nav.next');
+
+  const getStep = () => {
+    const card = scroller.querySelector('.card');
+    if (!card) return 300;
+    const style = window.getComputedStyle(scroller);
+    const gap = parseFloat(style.columnGap || style.gap || 0) || 0;
+    return card.getBoundingClientRect().width + gap;
+  };
+
+  const updateDisabled = () => {
+    const max = scroller.scrollWidth - scroller.clientWidth - 1;
+    prevBtn.disabled = scroller.scrollLeft <= 0;
+    nextBtn.disabled = scroller.scrollLeft >= max;
+  };
+
+  const scrollByStep = (dir) => {
+    scroller.scrollBy({ left: dir * getStep(), behavior: 'smooth' });
+    setTimeout(updateDisabled, 300);
+  };
+
+  prevBtn.addEventListener('click', () => scrollByStep(-1));
+  nextBtn.addEventListener('click', () => scrollByStep(1));
+
+  scroller.addEventListener('scroll', updateDisabled, { passive: true });
+  window.addEventListener('resize', updateDisabled);
+
+  scroller.setAttribute('tabindex', '0');
+  scroller.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowLeft') { e.preventDefault(); scrollByStep(-1); }
+    if (e.key === 'ArrowRight') { e.preventDefault(); scrollByStep(1); }
+  });
+
+  updateDisabled();
+})();
+</script>
+```
+:::
+
+```{=html}
+<script>
+// Requiere Bootstrap Icons ya cargado en <head>
+(function () {
+  // 1) Referencias seguras al TOC y su lista
+  function getTocRefs() {
+    const tocNav = document.querySelector('nav#TOC, nav[role="doc-toc"]');
+    if (!tocNav) return null;
+    const tocList = tocNav.querySelector('ul.nav');
+    // contenedor lateral típico en Quarto/Flatly
+    const container =
+      tocNav.closest('aside, #quarto-sidebar, .sidebar')
+        ?.querySelector('.sidebar-menu-container') || tocNav;
+    return { tocNav, tocList, container };
+  }
+
+  function ensureActions() {
+    const refs = getTocRefs();
+    if (!refs) return;
+    const { tocNav, tocList, container } = refs;
+
+    // Evitar duplicados en el sidebar
+    if (container.querySelector('.toc-actions')) return;
+
+    // 2) Bloque de acciones
+    const box = document.createElement('div');
+    box.className = 'toc-actions no-print';
+    box.innerHTML = `
+  <a href="#" id="actPrint" class="nav-link action">
+    <i class="bi bi-file-earmark-pdf-fill"></i> Guardar PDF
+  </a>
+  <a href="#" id="actCopy" class="nav-link action">
+    <i class="bi bi-link-45deg"></i> Compartir enlace
+  </a>
+  <div class="notice print" id="noticePrint">
+    Antes de guardar, desactiva <strong>“Encabezados y pies de página”</strong> en el diálogo de impresión de Chrome.
+  </div>
+  <div class="notice copy" id="noticeCopy">¡Enlace copiado al portapapeles!</div>
+`;
+
+    // 3) Insertar justo DEBAJO del <ul.nav> del TOC (mismo lateral derecho)
+    if (tocList) {
+      tocList.insertAdjacentElement('afterend', box);
+    } else {
+      // Fallback: al final del nav del TOC
+      tocNav.insertAdjacentElement('beforeend', box);
+    }
+
+    // 4) Lógica imprimir
+    const actPrint = box.querySelector('#actPrint');
+    const nPrint   = box.querySelector('#noticePrint');
+    actPrint.addEventListener('click', (e) => {
+      e.preventDefault();
+      nPrint.style.display = 'block';
+      setTimeout(() => (nPrint.style.display = 'none'), 4000);
+      document.documentElement.classList.add('print-mode');
+      window.print();
+      setTimeout(() => document.documentElement.classList.remove('print-mode'), 1000);
+    });
+
+    // 5) Lógica copiar enlace
+    const actCopy = box.querySelector('#actCopy');
+    const nCopy   = box.querySelector('#noticeCopy');
+    actCopy.addEventListener('click', async (e) => {
+      e.preventDefault();
+      try {
+        await (navigator.clipboard?.writeText?.(window.location.href));
+      } catch {
+        const tmp = document.createElement('input');
+        tmp.value = window.location.href;
+        document.body.appendChild(tmp);
+        tmp.select();
+        document.execCommand('copy');
+        document.body.removeChild(tmp);
+      }
+      nCopy.style.display = 'block';
+      setTimeout(() => (nCopy.style.display = 'none'), 2500);
+    });
+  }
+
+  // Inyección cuando el TOC esté disponible
+  if (getTocRefs()) {
+    ensureActions();
+  } else {
+    const mo = new MutationObserver(() => {
+      if (getTocRefs()) {
+        ensureActions();
+        mo.disconnect();
+      }
+    });
+    mo.observe(document.body, { childList: true, subtree: true });
+    window.addEventListener('load', ensureActions);
+  }
+})();
+</script>
+```
