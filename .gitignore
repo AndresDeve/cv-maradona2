@@ -10,3 +10,4 @@ _site/
 *_cache/
 *_files/
 docs/
+.DS_Store

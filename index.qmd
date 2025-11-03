@@ -18,6 +18,7 @@ css: cv.css
 format-links: [pdf]
 lang: es
 ---
+
 ::: {.no-print}
 ```{=html}
 <header class="cv-header">
