@@ -4,3 +4,9 @@
 *_cache/
 _site/
 node_modules/
+.DS_Store
+.quarto/
+_site/
+*_cache/
+*_files/
+docs/
