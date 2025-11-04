@@ -12,9 +12,10 @@ format:
     mainfont: "Public Sans"
     css: cv.css
     margin:
-      left: 0     # 👈 margen izquierdo más chico
-      right: 0    # 👈 margen derecho más chico
-css: cv.css
+      left: 0     
+      right: 0
+    embed-resources: true 
+    self-contained: true    
 format-links: [pdf]
 lang: es
 ---
@@ -68,13 +69,22 @@ lang: es
 </div>
 ```
 
-Campeón del Mundo 1986 con la Selección Argentina de fútbol. Trayectoria destacada en *Napoli*, *Barcelona*, *Boca Juniors* y *Argentinos Juniors*. Experiencia como DT de la Selección Argentina y conductor televisivo. Liderazgo, comunicación y alto rendimiento.
-<br clear="all">
 
-## Contacto
-+54 9 11 1234567  
-d10s@gmail.com  
-[www.D10S.com](https://es.wikipedia.org/wiki/La_mano_de_Dios){target="_blank" rel="noopener"}
+```{=html}
+<p>
+  Campeón del Mundo 1986 con la Selección Argentina de fútbol. Trayectoria destacada en <em>Napoli</em>, 
+  <em>Barcelona</em>, <em>Boca Juniors</em> y <em>Argentinos Juniors</em>. 
+  Experiencia como DT de la Selección Argentina y conductor televisivo. 
+  Liderazgo, comunicación y alto rendimiento.
+</p>
+<div class="contact-inline">
+  <span><i class="bi bi-telephone-fill"></i> +54 9 11 1234567</span>
+  <span><i class="bi bi-envelope-fill"></i> d10s@gmail.com</span>
+  <span><i class="bi bi-globe"></i> 
+    <a href="https://es.wikipedia.org/wiki/La_mano_de_Dios" target="_blank" rel="noopener">www.D10S.com</a>
+  </span>
+</div>
+```
 
 ## Experiencia personal
 

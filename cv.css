@@ -492,3 +492,32 @@ nav#TOC .nav-link#tocPrintLink:hover {
     padding: .5rem 0;
   }
 }
+
+.contact-inline {
+  display: flex;
+  justify-content: flex-start;   /* 👈 alinea toda la fila a la izquierda */
+  align-items: center;           /* centra verticalmente los íconos con el texto */
+  gap: 0.8rem;                     /* espacio entre cada ítem */
+  flex-wrap: wrap;               /* se adapta si el ancho es chico */
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  margin-top: 0.3rem;
+  color: #0b4749;
+  text-align: left;              /* 👈 asegura que el texto se alinee a la izquierda */
+}
+
+.contact-inline i {
+  color: var(--brand, #0EA5A8);
+  margin-right: 0.2rem;
+  font-size: 1rem;
+}
+
+.contact-inline a {
+  color: #0b4749;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.contact-inline a:hover {
+  color: var(--brand, #0EA5A8);
+}
