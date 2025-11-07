@@ -8,6 +8,7 @@ format:
     include-in-header:
       - text: |
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+          <link rel="icon" href="assets/logo_icon.png" type="image/png"> 
     page-layout: full
     mainfont: "Public Sans"
     css: cv.css
@@ -15,9 +16,10 @@ format:
       left: 0     
       right: 0
     embed-resources: true 
-    self-contained: true    
+    self-contained: true
 format-links: [pdf]
 lang: es
+pagetitle: "D10S - Ejemplo CV WEB 2"
 ---
 
 ::: {.no-print}
