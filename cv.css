@@ -521,3 +521,14 @@ nav#TOC .nav-link#tocPrintLink:hover {
 .contact-inline a:hover {
   color: var(--brand, #0EA5A8);
 }
+
+/* =============================================== */
+/* 🔹 Aumentar tamaño de todas las fuentes en 1.2x */
+/* =============================================== */
+html {
+  font-size: 120%; /* ← incrementa toda la escala tipográfica */
+}
+
+body {
+  line-height: 1.6; /* mejora legibilidad con el nuevo tamaño */
+}
